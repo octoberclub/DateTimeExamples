@@ -32,6 +32,7 @@ namespace NodaTimeExample
             //var od = new OffsetDateTime(d1, Offset.FromHours(1));
             //Console.WriteLine(od.LocalDateTime);
 
+            //http://www.timeanddate.com/time/change/uk/london
             // Show Hours
             //var tz = DateTimeZoneProviders.Tzdb["Europe/London"];
             //var date = new LocalDateTime(2014, 3, 30, 0, 0);
